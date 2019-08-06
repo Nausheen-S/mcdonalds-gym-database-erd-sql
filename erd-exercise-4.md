@@ -26,8 +26,10 @@ The management wants an app that can manage membership. The management is techni
   * We want to find out which gym members are not paying their membership fees.
   * We want to find out how many people come in every day
   * We want to find out which day of the month has the most number of people.
+  * We want to find out the average length of the start date and end date of the memberships.
+  * We want to find out what percentage of members come more than five times a week.
 
-
+4. Finish Part 1 by itself first without Part 2.
 
 
 <details github-only><hint>Clicky Hint</hint>
