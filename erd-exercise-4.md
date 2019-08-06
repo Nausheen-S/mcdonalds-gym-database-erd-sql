@@ -29,9 +29,6 @@ The management wants an app that can manage membership. The management is techni
   * We want to find out the average length of the start date and end date of the memberships.
   * We want to find out what percentage of members come more than five times a week.
 
-4. Finish Part 1 by itself first without Part 2.
-
-
 <details github-only><hint>Clicky Hint</hint>
 Hint: Customer management system
 <ul>
@@ -41,23 +38,23 @@ Hint: Customer management system
 </details>
 
 
-*Part 2*
+*Part 2 - More Work*
+
+*Note: Finish Part 1 by itself first without Part 2*
 
 The management has started three gym classes - class A, class B, class C.
 
 With new gym classes come new information and the need for management to gather more information about the effectiveness of the classes.
 
-We want to find out which gym classes are being used the most.
-
-We want to find out, for the top 5 gym classes, which are the top 5 members using them.
-
-There has been an outbreak of the bola-bola infection that makes your legs turn green and gym members who have been in the gym class C between the dates of August 1 to August 5 are probably infected with it.
-
-We want to find out who they are.
-
 1. Draw the ERD for the situation
 2. Create the SQL code for tables and columns
-3. Create the SQL queries
+3. Create the SQL queries:
+  * We want to find out which gym classes are being used the most.
+
+  * We want to find out, for the top 5 gym classes, which are the top 5 members using them.
+
+  * There has been an outbreak of the bola-bola infection that makes your legs turn green and gym members who have been in the gym class C between the dates of August 1 to August 5 are probably infected with it. We want to find out who they are.
+
 
 <details github-only><hint>Clicky Hint</hint>
 Hint: Joins, foreign keys, many to many
